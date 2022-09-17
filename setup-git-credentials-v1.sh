@@ -11,7 +11,7 @@
 #
 ##################################################################################################################
 
-# Problem solving commands
+## Problem solving commands
 
 # Read before using it.
 # https://www.atlassian.com/git/tutorials/undoing-changes/git-reset
@@ -24,56 +24,22 @@
 # git push --set-upstream origin master
 # git reset --hard orgin/master
 
-#setting up git
-#https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
+project=$(basename `pwd`)
+echo "-----------------------------------------------------------------------------"
+echo "this is project https://github.com/sebos06/"$project
+echo "-----------------------------------------------------------------------------"
+git config --global credential.helper store
+git config --global pull.rebase false
+git config --global user.name "sebos06"
+git config --global user.email "sebastien.violet@gmail.com"
+sudo git config --system core.editor nano
+git config --global credential.helper cache
+#git config --global credential.helper 'cache --timeout=32000'
+git config --global push.default simple
 
-echo
-tput setaf 1
-echo "################################################################"
-echo "#####  Choose wisely - one time setup after clean install   ####"
-echo "################################################################"
-tput sgr0
-echo
-echo "Select the correct desktop"
-echo
-echo "0.  Do nothing"
-echo "1.  sebos06"
-echo "Type the number..."
+#git remote set-url origin git@github.com-sebos06/arcolinux-xfce4-dotfiles
 
-read CHOICE
-
-case $CHOICE in
-
-    0 )
-      echo
-      echo "########################################"
-      echo "We did nothing as per your request"
-      echo "########################################"
-      echo
-      ;;
-
-    1 )
-      git config --global pull.rebase false
-      git config --global credential.helper store
-      git config --global push.default simple
-      git config --global user.name "sebos06"
-      sudo git config --system core.editor nano
-      git config --global credential.helper cache
-      git config --global credential.helper 'cache --timeout=32000'
-      ;;
-
-    * )
-      echo "#################################"
-      echo "Choose the correct number"
-      echo "#################################"
-      ;;
-esac
-
-echo "###########################################################"
-echo "Github credentials have been set"
-echo "Delete the ~/.cache/git folder if you made a mistake or"
-echo "if you want to switch to your personal github"
-echo "###########################################################"
+echo "Everything set"
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
