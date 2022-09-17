@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/sviolet/.steam/root/steam/games/14746ac1e34e9b4737cc78ecfda10f91028860d0.zip" added="2022-09-10T09:06:44.591685Z" modified="2022-09-10T09:06:44.591688Z" visited="2022-09-10T09:06:44.591685Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-09-10T09:06:44.591686Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/.steam/root/compatibilitytools.d/GE-Proton7-31.tar.gz" added="2022-09-10T09:07:54.890515Z" modified="2022-09-10T09:07:54.890517Z" visited="2022-09-10T09:07:54.890515Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-09-10T09:07:54.890516Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/T%C3%A9l%C3%A9chargements/SRM_MR2200ac_9346.pat" added="2022-09-10T11:23:09.694595Z" modified="2022-09-10T11:23:09.698812Z" visited="2022-09-10T11:23:09.694596Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/x-gimp-pat"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-09-10T11:23:09.698811Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/xfce4-terminal" added="2022-09-10T16:35:34.926253Z" modified="2022-09-10T16:35:34.926255Z" visited="2022-09-10T16:35:34.926253Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-keyboard-settings" exec="&apos;xfce4-keyboard-settings %u&apos;" modified="2022-09-10T16:35:34.926254Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/T%C3%A9l%C3%A9chargements/openwrt-22.03.0-mediatek-mt7622-linksys_e8450-ubi-initramfs-recovery-installer_signed.itb" added="2022-09-11T11:03:58.834975Z" modified="2022-09-11T11:04:33.382203Z" visited="2022-09-11T11:03:58.834975Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-09-11T11:04:33.382202Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/T%C3%A9l%C3%A9chargements/openwrt-22.03.0-mediatek-mt7622-linksys_e8450-ubi-squashfs-sysupgrade%20(2).itb" added="2022-09-11T11:05:34.268352Z" modified="2022-09-11T11:05:34.273045Z" visited="2022-09-11T11:05:34.268352Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-09-11T11:05:34.273044Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/T%C3%A9l%C3%A9chargements/openwrt-22.03.0-mediatek-mt7622-linksys_e8450-ubi-squashfs-sysupgrade%20(3).itb" added="2022-09-11T11:09:25.026124Z" modified="2022-09-11T11:09:25.030749Z" visited="2022-09-11T11:09:25.026124Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-09-11T11:09:25.030747Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/.local/share/meld/recent-n5ecewcy.meldcmp" added="2022-09-11T16:02:04.310357Z" modified="2022-09-11T16:02:04.310360Z" visited="2022-09-11T16:02:04.310358Z">
+    <title>Gestionnaire de versions : ~/Bureau</title>
+    <desc>Version control comparison
+file:///home/sviolet/Bureau</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-meld-comparison"/>
+        <bookmark:applications>
+          <bookmark:application name="Meld" exec="&apos;/usr/bin/meld --comparison-file %u&apos;" modified="2022-09-11T16:02:04.310359Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/.local/share/meld/recent-9rz067hp.meldcmp" added="2022-09-11T16:02:19.478584Z" modified="2022-09-11T16:02:19.478587Z" visited="2022-09-11T16:02:19.478585Z">
+    <title>locale.gen : locale.gen.pacnew</title>
+    <desc>File comparison
+file:///etc/locale.gen, file:///etc/locale.gen.pacnew</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-meld-comparison"/>
+        <bookmark:applications>
+          <bookmark:application name="Meld" exec="&apos;/usr/bin/meld --comparison-file %u&apos;" modified="2022-09-11T16:02:19.478586Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/T%C3%A9l%C3%A9chargements/basil-tw-master.zip" added="2022-09-11T16:25:37.620086Z" modified="2022-09-11T16:25:42.787041Z" visited="2022-09-11T16:25:37.620086Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-09-11T16:25:42.787040Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/arcolinux-xfce4-dotfiles/git-v1.sh" added="2022-09-12T12:48:07.162239Z" modified="2022-09-12T12:48:07.162241Z" visited="2022-09-12T12:48:07.162239Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2022-09-12T12:48:07.162239Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/arcolinux-xfce4-dotfiles/setup-git-credentials-v1.sh" added="2022-09-12T12:48:16.639259Z" modified="2022-09-12T12:48:16.639261Z" visited="2022-09-12T12:48:16.639259Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2022-09-12T12:48:16.639260Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/.local/share/meld/recent-agf6_rdq.meldcmp" added="2022-09-12T18:34:07.480160Z" modified="2022-09-12T18:34:07.480164Z" visited="2022-09-12T18:34:07.480161Z">
+    <title>Bureau : DATA</title>
+    <desc>Folder comparison
+file:///home/sviolet/Bureau, file:///home/sviolet/DATA</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-meld-comparison"/>
+        <bookmark:applications>
+          <bookmark:application name="Meld" exec="&apos;/usr/bin/meld --comparison-file %u&apos;" modified="2022-09-12T18:34:07.480162Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/ArcoLinuxB-Out/arcolinuxb-xfce-v22.10.01-x86_64.iso" added="2022-09-13T16:13:58.748478Z" modified="2022-09-13T16:13:58.748480Z" visited="2022-09-13T16:13:58.748478Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="mintstick.py" exec="&apos;mintstick.py %u&apos;" modified="2022-09-13T16:13:58.748479Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/.config/variety/Downloaded/Unsplash" added="2022-09-15T16:34:32.813122Z" modified="2022-09-15T16:34:32.813124Z" visited="2022-09-15T16:34:32.813122Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xfdesktop-settings" exec="&apos;xfdesktop-settings %u&apos;" modified="2022-09-15T16:34:32.813122Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/archlinux-login-backgrounds" added="2022-09-15T16:36:03.902382Z" modified="2022-09-15T16:36:03.902384Z" visited="2022-09-15T16:36:03.902383Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xfdesktop-settings" exec="&apos;xfdesktop-settings %u&apos;" modified="2022-09-15T16:36:03.902383Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2022-09-16T13:13:06.521618Z" modified="2022-09-16T13:13:06.521621Z" visited="2022-09-16T13:13:06.521619Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:groups>
+          <bookmark:group>baobab</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="baobab" exec="&apos;baobab %u&apos;" modified="2022-09-16T13:13:06.521620Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet" added="2022-09-16T13:13:12.527584Z" modified="2022-09-16T13:13:12.527587Z" visited="2022-09-16T13:13:12.527585Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:groups>
+          <bookmark:group>baobab</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="baobab" exec="&apos;baobab %u&apos;" modified="2022-09-16T13:13:12.527586Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///bin/xfce-superkey" added="2022-09-16T13:33:19.857828Z" modified="2022-09-16T13:33:19.857830Z" visited="2022-09-16T13:33:19.857828Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-session-settings" exec="&apos;xfce4-session-settings %u&apos;" modified="2022-09-16T13:33:19.857829Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

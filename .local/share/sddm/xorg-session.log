@@ -1,0 +1,45 @@
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+discover_other_daemon: 1
+(wrapper-2.0:1316): Gtk-WARNING **: 19:22:14.736: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+** (wrapper-2.0:1318): WARNING **: 19:22:14.739: Binding 'XF86AudioPlay' failed!
+
+(wrapper-2.0:1318): pulseaudio-plugin-WARNING **: 19:22:14.739: Could not have grabbed multimedia control keys.
+
+(wrapper-2.0:1318): libnotify-WARNING **: 19:22:14.741: Failed to connect to proxy
+
+(wrapper-2.0:1318): Gtk-WARNING **: 19:22:14.751: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+** (xfce4-clipman:1359): WARNING **: 19:22:14.816: Unable to register GApplication: Un objet est déjà exporté pour l’interface « org.gtk.Application » en « /org/xfce/clipman »
+
+(xfce4-clipman:1359): GLib-GIO-CRITICAL **: 19:22:14.816: g_application_get_is_remote: assertion 'application->priv->is_registered' failed
+
+(xfce4-clipman:1359): GLib-WARNING **: 19:22:14.816: g_set_application_name() called multiple times
+
+** (xfce4-power-manager:1378): WARNING **: 19:22:14.829: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.freedesktop.PowerManagement': no such name
+
+
+** (xfce4-power-manager:1378): WARNING **: 19:22:14.829: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.xfce.PowerManager': no such name
+
+
+(xfce4-power-manager:1378): libnotify-WARNING **: 19:22:14.839: Failed to connect to proxy
+
+** (xfce4-screensaver:1380): WARNING **: 19:22:14.845: économiseur d’écran déjà lancé dans cette session
+
+(xfce4-power-manager:1378): GLib-GObject-WARNING **: 19:22:14.886: ../glib/gobject/gsignal.c:2613: signal 'Changed' is invalid for instance '0x564ddc68f220' of type 'GDBusProxy'
+
+(xfce4-power-manager:1378): xfce4-power-manager-WARNING **: 19:22:14.935: could not map keysym 1008ffa8 to keycode
+
+
+** (xfce4-power-manager:1378): WARNING **: 19:22:14.941: No outputs have backlight property
+
+(xfce4-power-manager:1378): xfce4-power-manager-WARNING **: 19:22:14.943: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: L’objet n’existe pas à l’emplacement « /org/freedesktop/UPower/KbdBacklight »
+
+** (xfdesktop:1313): WARNING **: 19:22:15.028: Failed to set the background '/home/sviolet/.config/variety/wallpaper/wallpaper-auto-rotated-dea778fe1783569ec3f83f43fc5fb04c.jpg': GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: L’interface « org.freedesktop.DisplayManager.AccountsService » n’existe pas
+
+(xfce4-session:1191): GLib-WARNING **: 19:22:15.404: GChildWatchSource: Exit status of a child process was requested but ECHILD was received by waitpid(). See the documentation of g_child_watch_source_new() for possible causes.
+** Message: 19:22:45.107: updates_checker.vala:71: check updates
+** Message: 19:22:46.568: updates_checker.vala:101: 0 updates found
+** Message: 19:23:11.427: updates_checker.vala:71: check updates
+** Message: 19:23:12.896: updates_checker.vala:101: 0 updates found
+urxvt: X connection to ':0.0' broken, unable to recover, exiting.

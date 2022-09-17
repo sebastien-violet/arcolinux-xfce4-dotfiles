@@ -1,0 +1,4 @@
+[Comparison]
+type = Folder
+uris = file:///home/sviolet/.config;file:///etc/skel/.config
+

@@ -1,0 +1,4 @@
+[Comparison]
+type = Version control
+uris = file:///etc/skel/.config
+

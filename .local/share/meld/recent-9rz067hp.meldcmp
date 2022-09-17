@@ -1,0 +1,4 @@
+[Comparison]
+type = File
+uris = file:///etc/locale.gen;file:///etc/locale.gen.pacnew
+
