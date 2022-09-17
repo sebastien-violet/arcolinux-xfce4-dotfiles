@@ -1,0 +1,33 @@
+{
+	"notifications": true,
+	"api": true,
+	"playBackControl": true,
+	"muteArtists": false,
+	"mutedArtists": [
+		"TIDAL"
+	],
+	"menuBar": true,
+	"apiSettings": {
+		"port": 47836
+	},
+	"singleInstance": true,
+	"disableHardwareMediaKeys": false,
+	"trayIcon": true,
+	"minimizeOnClose": true,
+	"mpris": false,
+	"enableCustomHotkeys": false,
+	"enableDiscord": false,
+	"windowBounds": {
+		"width": 2560,
+		"height": 1385
+	},
+	"flags": {
+		"gpuRasterization": true,
+		"disableHardwareMediaKeys": false
+	},
+	"__internal__": {
+		"migrations": {
+			"version": "4.1.2"
+		}
+	}
+}

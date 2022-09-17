@@ -1,0 +1,47 @@
+
+	09/10/2022 11:41:22: Log
+Version.txt found. Contents:
+MAJOR = 2
+MINOR = 1
+BUILD = 126229
+BRANCH = 79bbbe2c663daf1a
+ISFROMBUILDSERVER = True
+DATE = 2019-02-05 08:48:50
+
+
+	09/10/2022 11:41:23: Warning
+french
+
+
+	09/10/2022 11:41:23: Log
+Setting language to current steam language: french
+
+	09/10/2022 11:41:23: Log
+FR
+
+	09/10/2022 11:41:28: Log
+homeview in Enter HomeViewSpinner (HomeViewSpinner)
+
+	09/10/2022 11:41:30: Log
+Home OnOtherViewLeaving 2
+
+	09/10/2022 11:41:31: Log
+homeview focus TrueHomeViewSpinner (HomeViewSpinner)
+
+	09/10/2022 11:41:31: Log
+homeview focus FalseHomeViewSpinner (HomeViewSpinner)
+
+	09/10/2022 11:41:33: Log
+SetCurrentObject CollectionViewItem - Prologue (ObjectViewItem)
+
+	09/10/2022 11:41:35: Log
+SetCurrentObject CollectionViewItem - Maze of Snakes (ObjectViewItem)
+
+	09/10/2022 11:41:41: Log
+Home OnOtherViewLeaving 2
+
+	09/10/2022 11:41:42: Log
+homeview focus FalseHomeViewSpinner (HomeViewSpinner)
+
+	09/10/2022 11:41:42: Log
+homeview focus FalseHomeViewSpinner (HomeViewSpinner)

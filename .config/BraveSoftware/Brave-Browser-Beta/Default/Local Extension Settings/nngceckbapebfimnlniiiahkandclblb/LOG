@@ -1,0 +1,12 @@
+2022/09/17-17:41:09.165 25a48 Reusing MANIFEST /home/sviolet/.config/BraveSoftware/Brave-Browser-Beta/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/MANIFEST-000001
+2022/09/17-17:41:09.165 25a48 Recovering log #61
+2022/09/17-17:41:09.167 25a48 Reusing old log /home/sviolet/.config/BraveSoftware/Brave-Browser-Beta/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/000061.log 
+2022/09/17-17:42:12.462 25d28 Level-0 table #66: started
+2022/09/17-17:42:12.475 25d28 Level-0 table #66: 2744114 bytes OK
+2022/09/17-17:42:12.476 25d28 Delete type=0 #61
+2022/09/17-17:43:18.380 25d28 Compacting 1@1 + 1@2 files
+2022/09/17-17:43:18.383 25d28 Generated table #67@1: 6 keys, 211612 bytes
+2022/09/17-17:43:18.383 25d28 Compacted 1@1 + 1@2 files => 211612 bytes
+2022/09/17-17:43:18.384 25d28 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/17-17:43:18.384 25d28 Delete type=2 #63
+2022/09/17-17:43:18.384 25d28 Delete type=2 #66

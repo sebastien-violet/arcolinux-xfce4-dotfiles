@@ -1,0 +1,12 @@
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=MainWindow
+DisplayPort-0 Height 2560x1440=864
+DisplayPort-0 Width 2560x1440=2048
+DisplayPort-0 XPosition 2560x1440=256
+DisplayPort-0 YPosition 2560x1440=0
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAAAAAAAAAAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled

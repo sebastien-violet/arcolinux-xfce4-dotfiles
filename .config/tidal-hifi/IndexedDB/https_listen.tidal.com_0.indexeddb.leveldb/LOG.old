@@ -1,0 +1,13 @@
+2022/09/16-17:35:14.173 1f17 Reusing MANIFEST /home/sviolet/.config/tidal-hifi/IndexedDB/https_listen.tidal.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/16-17:35:14.173 1f17 Recovering log #7
+2022/09/16-17:35:14.174 1f17 Reusing old log /home/sviolet/.config/tidal-hifi/IndexedDB/https_listen.tidal.com_0.indexeddb.leveldb/000007.log 
+2022/09/16-17:35:15.184 1f17 Level-0 table #11: started
+2022/09/16-17:35:15.186 1f17 Level-0 table #11: 80969 bytes OK
+2022/09/16-17:35:15.189 1f17 Delete type=0 #7
+2022/09/16-17:35:15.190 1f17 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 1139 : 1
+2022/09/16-17:35:15.190 1f17 Compacting 1@0 + 1@1 files
+2022/09/16-17:35:15.191 1f17 Generated table #12@0: 401 keys, 29414 bytes
+2022/09/16-17:35:15.191 1f17 Compacted 1@0 + 1@1 files => 29414 bytes
+2022/09/16-17:35:15.194 1f17 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/16-17:35:15.194 1f17 Delete type=2 #11
+2022/09/16-17:35:15.194 1f17 Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 1139 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

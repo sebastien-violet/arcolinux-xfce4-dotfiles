@@ -1,0 +1,28 @@
+2022/09/17-17:41:12.119 25d24 Reusing MANIFEST /home/sviolet/.config/BraveSoftware/Brave-Browser-Beta/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2022/09/17-17:41:12.119 25d24 Recovering log #96
+2022/09/17-17:41:12.122 25d24 Reusing old log /home/sviolet/.config/BraveSoftware/Brave-Browser-Beta/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000096.log 
+2022/09/17-17:41:22.721 25d28 Level-0 table #100: started
+2022/09/17-17:41:22.736 25d28 Level-0 table #100: 1978339 bytes OK
+2022/09/17-17:41:22.738 25d28 Delete type=0 #96
+2022/09/17-17:42:23.394 25d7b Level-0 table #102: started
+2022/09/17-17:42:23.409 25d7b Level-0 table #102: 1841394 bytes OK
+2022/09/17-17:42:23.411 25d7b Delete type=0 #99
+2022/09/17-17:42:25.802 25a48 Level-0 table #104: started
+2022/09/17-17:42:25.820 25a48 Level-0 table #104: 1832789 bytes OK
+2022/09/17-17:42:25.822 25a48 Delete type=0 #101
+2022/09/17-17:42:25.822 25a48 Compacting 4@0 + 3@1 files
+2022/09/17-17:42:25.841 25a48 Generated table #105@0: 10 keys, 2174069 bytes
+2022/09/17-17:42:25.858 25a48 Generated table #106@0: 13 keys, 2117742 bytes
+2022/09/17-17:42:25.870 25a48 Generated table #107@0: 20 keys, 945277 bytes
+2022/09/17-17:42:25.870 25a48 Compacted 4@0 + 3@1 files => 5237088 bytes
+2022/09/17-17:42:25.872 25a48 compacted to: files[ 0 3 1 0 0 0 0 ]
+2022/09/17-17:42:25.872 25a48 Delete type=2 #93
+2022/09/17-17:42:25.872 25a48 Delete type=2 #94
+2022/09/17-17:42:25.872 25a48 Delete type=2 #95
+2022/09/17-17:42:25.872 25a48 Delete type=2 #97
+2022/09/17-17:42:25.872 25a48 Delete type=2 #100
+2022/09/17-17:42:25.872 25a48 Delete type=2 #102
+2022/09/17-17:42:25.872 25a48 Delete type=2 #104
+2022/09/17-17:44:27.973 25e34 Level-0 table #109: started
+2022/09/17-17:44:27.995 25e34 Level-0 table #109: 2766833 bytes OK
+2022/09/17-17:44:27.997 25e34 Delete type=0 #103

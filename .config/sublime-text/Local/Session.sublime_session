@@ -1,0 +1,592 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 4126,
+	"last_window_id": 5,
+	"log_indexing": false,
+	"next_update_check": 1663491497,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1066.0,
+		"new_window_maximized": false,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/sviolet/arcolinux-xfce4-dotfiles/git-v1.sh",
+				"/home/sviolet/arcolinux-xfce4-dotfiles/setup-git-credentials-v1.sh",
+				"/home/sviolet/Bureau/arco-xfce/setup-our-git-credentials.sh",
+				"/home/sviolet/.gitconfig",
+				"/home/sviolet/Bureau/arco-xfce/git-v3.sh",
+				"/home/sviolet/Bureau/arco-xfce/archiso.readme",
+				"/home/sviolet/Bureau/arco-xfce/archiso/packages.x86_64",
+				"/home/sviolet/DATA/arcolinux-nemesis/AUR/install-gnome-terminal-transparency-v1.sh",
+				"/home/sviolet/DATA/arcolinux-nemesis/AUR/install-wordpress.sh",
+				"/home/sviolet/DATA/arcolinux-nemesis/AUR/install-snapper-v1.sh",
+				"/home/sviolet/.config/archlinux-logout/archlinux-logout.conf",
+				"/home/sviolet/.config/archlinux-tweak-tool/settings.ini",
+				"/home/sviolet/.config/arcolinux-welcome-app/settings.conf",
+				"/home/sviolet/.config/asciinema/install-id",
+				"/home/sviolet/.config/configstore/update-notifier-electron-builder.json",
+				"/home/sviolet/.config/nemo/desktop-metadata",
+				"/home/sviolet/.config/nano/nanorc",
+				"/home/sviolet/.config/kwinrc",
+				"/home/sviolet/.config/kwinrulesrc",
+				"/home/sviolet/.config/kxkbrc",
+				"/home/sviolet/.config/mimeapps.list",
+				"/home/sviolet/.config/pavucontrol.ini",
+				"/home/sviolet/.config/powerdevilrc",
+				"/home/sviolet/.config/powermanagementprofilesrc",
+				"/home/sviolet/.config/Trolltech.conf",
+				"/home/sviolet/.config/user-dirs.dirs",
+				"/home/sviolet/.config/user-dirs.locale",
+				"/home/sviolet/.config/yad.conf",
+				"/home/sviolet/.config/QtProject.conf",
+				"/home/sviolet/.config/baloofilerc",
+				"/home/sviolet/.config/gtkrc-2.0",
+				"/home/sviolet/.config/konsolerc",
+				"/home/sviolet/.config/akregatorrc",
+				"/home/sviolet/.config/gtkrc",
+				"/home/sviolet/.config/xfce4/xfce4-taskmanager.rc",
+				"/home/sviolet/.config/xfce4/terminal/terminalrc",
+				"/home/sviolet/.config/xfce4/xfconf/xfce-perchannel-xml/displays.xml",
+				"/home/sviolet/.config/xfce4/helpers.rc",
+				"/home/sviolet/.config/xfce4/xfce4-screenshooter",
+				"/home/sviolet/.config/unity3d/Player.log",
+				"/home/sviolet/.config/Thunar/uca.xml",
+				"/home/sviolet/.config/Thunar/accels.scm",
+				"/home/sviolet/.config/sublime-text/Local/Session.sublime_session",
+				"/home/sviolet/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/sviolet/.config/neofetch/config.conf",
+				"/home/sviolet/.config/Kvantum/kvantum.kvconfig",
+				"/home/sviolet/.config/kdedefaults/kcminputrc",
+				"/home/sviolet/.config/kdedefaults/kdeglobals",
+				"/home/sviolet/.config/kdedefaults/kscreenlockerrc",
+				"/home/sviolet/.config/kdedefaults/ksplashrc",
+				"/home/sviolet/.config/kdedefaults/kwinrc",
+				"/home/sviolet/.config/kdedefaults/package",
+				"/home/sviolet/.config/kdedefaults/plasmarc",
+				"/home/sviolet/.config/kdeconnect/config",
+				"/home/sviolet/.config/kde.org/UserFeedback.org.kde.plasmashell.conf",
+				"/home/sviolet/.config/alacritty/default-arcolinux.yml",
+				"/home/sviolet/.config/alacritty/default-github.yml",
+				"/home/sviolet/.config/alacritty/alacritty.yml",
+				"/home/sviolet/.config/gtk-3.0/settings.ini",
+				"/home/sviolet/.config/gtk-3.0/gtk.css",
+				"/home/sviolet/.config/gtk-3.0/bookmarks",
+				"/home/sviolet/.config/gtk-3.0/colors.css",
+				"/home/sviolet/.config/gtk-4.0/settings.ini",
+				"/home/sviolet/.config/autostart/am-conky-session.desktop",
+				"/home/sviolet/.config/autostart/arcolinux-welcome-app.desktop",
+				"/home/sviolet/.config/autostart/blueberry-obex-agent.desktop",
+				"/home/sviolet/.config/autostart/blueberry-tray.desktop",
+				"/home/sviolet/.config/autostart/pamac-tray.desktop",
+				"/home/sviolet/.config/autostart/SuperKey Whisker.desktop",
+				"/home/sviolet/.local/share/applications/urxvtc.desktop",
+				"/home/sviolet/.config/autostart/xfce4-clipman-plugin-autostart.desktop",
+				"/home/sviolet/.local/share/user-places.xbel",
+				"/home/sviolet/.cache/xsel.log",
+				"/home/sviolet/.local/share/sddm/xorg-session.log",
+				"/home/sviolet/.local/share/gvfs-metadata/home-803b010c.log",
+				"/home/sviolet/.local/share/godot/app_userdata/Decay/logs/godot.log",
+				"/home/sviolet/.local/share/flatpak/.changed",
+				"/home/sviolet/.config/variety/wallpaper/wallpaper.jpg.txt",
+				"/home/sviolet/.config/variety/scripts/get_wallpaper",
+				"/home/sviolet/.config/variety/scripts/get_wallpaper_arco",
+				"/home/sviolet/.config/variety/scripts/get_wallpaper_before_0.8.9",
+				"/home/sviolet/.config/tidal-hifi/Preferences",
+				"/home/sviolet/.config/tidal-hifi/notification.jpg",
+				"/home/sviolet/.config/tidal-hifi/config.json",
+				"/home/sviolet/DATA/arcolinux-nemesis/110-install-arcolinux-software.sh",
+				"/home/sviolet/.config/autostart/org.kde.yakuake.desktop",
+				"/home/sviolet/.config/variety/Downloaded/.variety_download_folder",
+				"/home/sviolet/.config/archlinux-betterlockscreen/settings.conf",
+				"/home/sviolet/Bureau/arco-xfce/installation-scripts/40-build-the-iso-local-again.sh",
+				"/home/sviolet/Bureau/arco-xfce/personal/.config/dconf/user",
+				"/home/sviolet/Bureau/arco-xfce/personal/.config/dconf/settings/gsettings.sh",
+				"/home/sviolet/Bureau/arco-xfce/installation-scripts/personal-repo",
+				"/home/sviolet/Bureau/arco-xfce/archiso/packages-personal-repo.x86_64",
+				"/home/sviolet/.bin/alpha",
+				"/etc/fstab",
+				"/home/sviolet/Bureau/arco-xfce/installation-scripts/30-build-the-iso-the-first-time.sh",
+				"/home/sviolet/arcolinuxl-iso/README.md",
+				"/home/sviolet/arcolinuxl-iso/git-v2.sh",
+				"/home/sviolet/arcolinuxl-iso/installation-scripts/personal-repo",
+				"/home/sviolet/.bin/starwars",
+				"/home/sviolet/.bin/arcob",
+				"/home/sviolet/.config/gitahead.com/GitAhead.conf",
+				"/home/sviolet/arcolinux-xfce4-dotfiles/README.md",
+				"/home/sviolet/arcolinux-xfce4-dotfiles/LICENSE",
+				"/home/sviolet/.bin/stay-rolling/2022/22.01-22.03/stay-rolling-v1.sh",
+				"/home/sviolet/.steam/root/logs/cloud_log.txt",
+				"/home/sviolet/.local/share/Steam/steamapps/common/Shadow of the Tomb Raider/config/game-chooser.sh",
+				"/home/sviolet/.local/share/Steam/userdata/0/750920/ac/LinuxXdgDataHome/feral-interactive/Shadow of the Tomb Raider/SaveData/76561198141789973/profile.dat",
+				"/home/sviolet/.steam/root/logs/compat_log.txt",
+				"/home/sviolet/.local/share/Steam/steamapps/common/Tomb Raider/TombRaider.sh",
+				"/home/sviolet/.local/share/Steam/.crash",
+				"/home/sviolet/.local/share/applications/electron14.desktop",
+				"/home/sviolet/.local/share/applications/electron.desktop",
+				"/home/sviolet/.bashrc",
+				"/home/sviolet/.bash_profile",
+				"/home/sviolet/.config/conky/vision/Z333-vision.conkyrc",
+				"/home/sviolet/.config/conky/conky-sessionfile",
+				"/home/sviolet/.config/conky/convert-old-conky-code-to-new-conky-code.lua",
+				"/home/sviolet/.config/conky/vision/render-pngs",
+				"/home/sviolet/.config/conky/AUR-Allinone.conkyrc",
+				"/home/sviolet/.config/conky/vision/SVG/622.svg"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"pacman",
+					"arcolinux-candy-beauty-git",
+					"arcolinux-config-xfce-git",
+					"arcolinux-meta",
+					"arcolinux-meta-sddm-themes",
+					"intel",
+					"nvidia",
+					"nvid",
+					"theme",
+					"meta",
+					"aur",
+					"AUR",
+					"personal",
+					"conk"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1247.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/sviolet/arcolinux-xfce4-dotfiles/git-v1.sh",
+				"/home/sviolet/arcolinux-xfce4-dotfiles/setup-git-credentials-v1.sh",
+				"/home/sviolet/Bureau/arco-xfce/setup-our-git-credentials.sh",
+				"/home/sviolet/.gitconfig",
+				"/home/sviolet/Bureau/arco-xfce/git-v3.sh",
+				"/home/sviolet/Bureau/arco-xfce/archiso.readme",
+				"/home/sviolet/Bureau/arco-xfce/archiso/packages.x86_64",
+				"/home/sviolet/DATA/arcolinux-nemesis/AUR/install-gnome-terminal-transparency-v1.sh",
+				"/home/sviolet/DATA/arcolinux-nemesis/AUR/install-wordpress.sh",
+				"/home/sviolet/DATA/arcolinux-nemesis/AUR/install-snapper-v1.sh",
+				"/home/sviolet/.config/archlinux-logout/archlinux-logout.conf",
+				"/home/sviolet/.config/archlinux-tweak-tool/settings.ini",
+				"/home/sviolet/.config/arcolinux-welcome-app/settings.conf",
+				"/home/sviolet/.config/asciinema/install-id",
+				"/home/sviolet/.config/configstore/update-notifier-electron-builder.json",
+				"/home/sviolet/.config/nemo/desktop-metadata",
+				"/home/sviolet/.config/nano/nanorc",
+				"/home/sviolet/.config/kwinrc",
+				"/home/sviolet/.config/kwinrulesrc",
+				"/home/sviolet/.config/kxkbrc",
+				"/home/sviolet/.config/mimeapps.list",
+				"/home/sviolet/.config/pavucontrol.ini",
+				"/home/sviolet/.config/powerdevilrc",
+				"/home/sviolet/.config/powermanagementprofilesrc",
+				"/home/sviolet/.config/Trolltech.conf",
+				"/home/sviolet/.config/user-dirs.dirs",
+				"/home/sviolet/.config/user-dirs.locale",
+				"/home/sviolet/.config/yad.conf",
+				"/home/sviolet/.config/QtProject.conf",
+				"/home/sviolet/.config/baloofilerc",
+				"/home/sviolet/.config/gtkrc-2.0",
+				"/home/sviolet/.config/konsolerc",
+				"/home/sviolet/.config/akregatorrc",
+				"/home/sviolet/.config/gtkrc",
+				"/home/sviolet/.config/xfce4/xfce4-taskmanager.rc",
+				"/home/sviolet/.config/xfce4/terminal/terminalrc",
+				"/home/sviolet/.config/xfce4/xfconf/xfce-perchannel-xml/displays.xml",
+				"/home/sviolet/.config/xfce4/helpers.rc",
+				"/home/sviolet/.config/xfce4/xfce4-screenshooter",
+				"/home/sviolet/.config/unity3d/Player.log",
+				"/home/sviolet/.config/Thunar/uca.xml",
+				"/home/sviolet/.config/Thunar/accels.scm",
+				"/home/sviolet/.config/sublime-text/Local/Session.sublime_session",
+				"/home/sviolet/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/sviolet/.config/neofetch/config.conf",
+				"/home/sviolet/.config/Kvantum/kvantum.kvconfig",
+				"/home/sviolet/.config/kdedefaults/kcminputrc",
+				"/home/sviolet/.config/kdedefaults/kdeglobals",
+				"/home/sviolet/.config/kdedefaults/kscreenlockerrc",
+				"/home/sviolet/.config/kdedefaults/ksplashrc",
+				"/home/sviolet/.config/kdedefaults/kwinrc",
+				"/home/sviolet/.config/kdedefaults/package",
+				"/home/sviolet/.config/kdedefaults/plasmarc",
+				"/home/sviolet/.config/kdeconnect/config",
+				"/home/sviolet/.config/kde.org/UserFeedback.org.kde.plasmashell.conf",
+				"/home/sviolet/.config/alacritty/default-arcolinux.yml",
+				"/home/sviolet/.config/alacritty/default-github.yml",
+				"/home/sviolet/.config/alacritty/alacritty.yml",
+				"/home/sviolet/.config/gtk-3.0/settings.ini",
+				"/home/sviolet/.config/gtk-3.0/gtk.css",
+				"/home/sviolet/.config/gtk-3.0/bookmarks",
+				"/home/sviolet/.config/gtk-3.0/colors.css",
+				"/home/sviolet/.config/gtk-4.0/settings.ini",
+				"/home/sviolet/.config/autostart/am-conky-session.desktop",
+				"/home/sviolet/.config/autostart/arcolinux-welcome-app.desktop",
+				"/home/sviolet/.config/autostart/blueberry-obex-agent.desktop",
+				"/home/sviolet/.config/autostart/blueberry-tray.desktop",
+				"/home/sviolet/.config/autostart/pamac-tray.desktop",
+				"/home/sviolet/.config/autostart/SuperKey Whisker.desktop",
+				"/home/sviolet/.local/share/applications/urxvtc.desktop",
+				"/home/sviolet/.config/autostart/xfce4-clipman-plugin-autostart.desktop",
+				"/home/sviolet/.local/share/user-places.xbel",
+				"/home/sviolet/.cache/xsel.log",
+				"/home/sviolet/.local/share/sddm/xorg-session.log",
+				"/home/sviolet/.local/share/gvfs-metadata/home-803b010c.log",
+				"/home/sviolet/.local/share/godot/app_userdata/Decay/logs/godot.log",
+				"/home/sviolet/.local/share/flatpak/.changed",
+				"/home/sviolet/.config/variety/wallpaper/wallpaper.jpg.txt",
+				"/home/sviolet/.config/variety/scripts/get_wallpaper",
+				"/home/sviolet/.config/variety/scripts/get_wallpaper_arco",
+				"/home/sviolet/.config/variety/scripts/get_wallpaper_before_0.8.9",
+				"/home/sviolet/.config/tidal-hifi/Preferences",
+				"/home/sviolet/.config/tidal-hifi/notification.jpg",
+				"/home/sviolet/.config/tidal-hifi/config.json",
+				"/home/sviolet/DATA/arcolinux-nemesis/110-install-arcolinux-software.sh",
+				"/home/sviolet/.config/autostart/org.kde.yakuake.desktop",
+				"/home/sviolet/.config/variety/Downloaded/.variety_download_folder",
+				"/home/sviolet/.config/archlinux-betterlockscreen/settings.conf",
+				"/home/sviolet/Bureau/arco-xfce/installation-scripts/40-build-the-iso-local-again.sh",
+				"/home/sviolet/Bureau/arco-xfce/personal/.config/dconf/user",
+				"/home/sviolet/Bureau/arco-xfce/personal/.config/dconf/settings/gsettings.sh",
+				"/home/sviolet/Bureau/arco-xfce/installation-scripts/personal-repo",
+				"/home/sviolet/Bureau/arco-xfce/archiso/packages-personal-repo.x86_64",
+				"/home/sviolet/.bin/alpha",
+				"/etc/fstab",
+				"/home/sviolet/Bureau/arco-xfce/installation-scripts/30-build-the-iso-the-first-time.sh",
+				"/home/sviolet/arcolinuxl-iso/README.md",
+				"/home/sviolet/arcolinuxl-iso/git-v2.sh",
+				"/home/sviolet/arcolinuxl-iso/installation-scripts/personal-repo",
+				"/home/sviolet/.bin/starwars",
+				"/home/sviolet/.bin/arcob",
+				"/home/sviolet/.config/gitahead.com/GitAhead.conf",
+				"/home/sviolet/arcolinux-xfce4-dotfiles/README.md",
+				"/home/sviolet/arcolinux-xfce4-dotfiles/LICENSE",
+				"/home/sviolet/.bin/stay-rolling/2022/22.01-22.03/stay-rolling-v1.sh",
+				"/home/sviolet/.steam/root/logs/cloud_log.txt",
+				"/home/sviolet/.local/share/Steam/steamapps/common/Shadow of the Tomb Raider/config/game-chooser.sh",
+				"/home/sviolet/.local/share/Steam/userdata/0/750920/ac/LinuxXdgDataHome/feral-interactive/Shadow of the Tomb Raider/SaveData/76561198141789973/profile.dat",
+				"/home/sviolet/.steam/root/logs/compat_log.txt",
+				"/home/sviolet/.local/share/Steam/steamapps/common/Tomb Raider/TombRaider.sh",
+				"/home/sviolet/.local/share/Steam/.crash",
+				"/home/sviolet/.local/share/applications/electron14.desktop",
+				"/home/sviolet/.local/share/applications/electron.desktop",
+				"/home/sviolet/.bashrc",
+				"/home/sviolet/.bash_profile",
+				"/home/sviolet/.config/conky/vision/Z333-vision.conkyrc",
+				"/home/sviolet/.config/conky/conky-sessionfile",
+				"/home/sviolet/.config/conky/convert-old-conky-code-to-new-conky-code.lua",
+				"/home/sviolet/.config/conky/vision/render-pngs",
+				"/home/sviolet/.config/conky/AUR-Allinone.conkyrc",
+				"/home/sviolet/.config/conky/vision/SVG/622.svg"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"pacman",
+					"arcolinux-candy-beauty-git",
+					"arcolinux-config-xfce-git",
+					"arcolinux-meta",
+					"arcolinux-meta-sddm-themes",
+					"intel",
+					"nvidia",
+					"nvid",
+					"theme",
+					"meta",
+					"aur",
+					"AUR",
+					"personal",
+					"conk"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,1102,323,2349,1389,2560,1440,0",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
