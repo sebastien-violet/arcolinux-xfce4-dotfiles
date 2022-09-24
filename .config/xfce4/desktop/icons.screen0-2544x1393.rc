@@ -1,31 +1,27 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/sviolet/Bureau/proton-community-updater.desktop]
-row=0
-col=0
-
 [/home/sviolet/Bureau/steam.desktop]
 row=2
 col=0
 
 [/home/sviolet/Bureau/tidal-hifi.desktop]
 row=1
-col=1
+col=0
 
 [/home/sviolet/Bureau/xfce-settings-manager.desktop]
-row=0
+row=1
 col=1
 
 [/home/sviolet/Bureau/steam-native.desktop]
 row=2
 col=1
 
-[/home/sviolet/Bureau/arco-xfce]
-row=3
-col=0
+[/home/sviolet/Bureau/thorium-browser-unstable.desktop]
+row=0
+col=1
 
 [/home/sviolet/Bureau/brave-browser-beta.desktop]
-row=1
+row=0
 col=0
 

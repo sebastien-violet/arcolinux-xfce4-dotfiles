@@ -1,1 +1,1 @@
-/home/sviolet/.config/variety/wallpaper/wallpaper-auto-rotated-daac3d1be4f968a6be1c8d1532c542a2.jpg
+/usr/share/backgrounds/xfce/xfce-verticals.png

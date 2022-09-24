@@ -1,6 +1,3 @@
-2022/09/17-16:32:17.342 c121 Creating DB /home/sviolet/.config/BraveSoftware/Brave-Browser-Beta/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb since it was missing.
-2022/09/17-16:32:17.345 c121 Reusing MANIFEST /home/sviolet/.config/BraveSoftware/Brave-Browser-Beta/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/09/17-16:33:49.225 c113 Level-0 table #5: started
-2022/09/17-16:33:49.226 c113 Level-0 table #5: 1860 bytes OK
-2022/09/17-16:33:49.228 c113 Delete type=0 #3
-2022/09/17-16:33:49.228 c113 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/09/24-16:05:45.160 20ea Reusing MANIFEST /home/sviolet/.config/BraveSoftware/Brave-Browser-Beta/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/24-16:05:45.160 20ea Recovering log #4
+2022/09/24-16:05:45.160 20ea Reusing old log /home/sviolet/.config/BraveSoftware/Brave-Browser-Beta/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000004.log 

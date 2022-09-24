@@ -1,13 +1,35 @@
-2022/09/16-17:35:14.173 1f17 Reusing MANIFEST /home/sviolet/.config/tidal-hifi/IndexedDB/https_listen.tidal.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/09/16-17:35:14.173 1f17 Recovering log #7
-2022/09/16-17:35:14.174 1f17 Reusing old log /home/sviolet/.config/tidal-hifi/IndexedDB/https_listen.tidal.com_0.indexeddb.leveldb/000007.log 
-2022/09/16-17:35:15.184 1f17 Level-0 table #11: started
-2022/09/16-17:35:15.186 1f17 Level-0 table #11: 80969 bytes OK
-2022/09/16-17:35:15.189 1f17 Delete type=0 #7
-2022/09/16-17:35:15.190 1f17 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 1139 : 1
-2022/09/16-17:35:15.190 1f17 Compacting 1@0 + 1@1 files
-2022/09/16-17:35:15.191 1f17 Generated table #12@0: 401 keys, 29414 bytes
-2022/09/16-17:35:15.191 1f17 Compacted 1@0 + 1@1 files => 29414 bytes
-2022/09/16-17:35:15.194 1f17 compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/09/16-17:35:15.194 1f17 Delete type=2 #11
-2022/09/16-17:35:15.194 1f17 Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 1139 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/09/24-19:37:00.235 160c2 Reusing MANIFEST /home/sviolet/.config/tidal-hifi/IndexedDB/https_listen.tidal.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/24-19:37:00.235 160c2 Recovering log #18
+2022/09/24-19:37:00.235 160c2 Reusing old log /home/sviolet/.config/tidal-hifi/IndexedDB/https_listen.tidal.com_0.indexeddb.leveldb/000018.log 
+2022/09/24-19:37:01.246 160d2 Level-0 table #22: started
+2022/09/24-19:37:01.248 160d2 Level-0 table #22: 23442 bytes OK
+2022/09/24-19:37:01.251 160d2 Delete type=0 #18
+2022/09/24-19:37:01.251 160d2 Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x00\x00\x05' @ 7920 : 1
+2022/09/24-19:37:01.251 160d2 Compacting 1@0 + 1@1 files
+2022/09/24-19:37:01.255 160d2 Generated table #23@0: 2148 keys, 23839 bytes
+2022/09/24-19:37:01.255 160d2 Compacted 1@0 + 1@1 files => 23839 bytes
+2022/09/24-19:37:01.258 160d2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/24-19:37:01.258 160d2 Delete type=2 #22
+2022/09/24-19:37:01.258 160d2 Manual compaction at level-0 from '\x00\x0c\x00\x00\x05' @ 7920 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/09/24-19:37:20.162 160c5 Level-0 table #25: started
+2022/09/24-19:37:20.163 160c5 Level-0 table #25: 29323 bytes OK
+2022/09/24-19:37:20.166 160c5 Delete type=2 #19
+2022/09/24-19:37:20.166 160c5 Delete type=0 #21
+2022/09/24-19:37:20.166 160c5 Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0d\x00\x00\x05' @ 8251 : 1
+2022/09/24-19:37:20.166 160c5 Compacting 1@0 + 1@1 files
+2022/09/24-19:37:20.168 160c5 Generated table #26@0: 2203 keys, 30000 bytes
+2022/09/24-19:37:20.168 160c5 Compacted 1@0 + 1@1 files => 30000 bytes
+2022/09/24-19:37:20.170 160c5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/24-19:37:20.170 160c5 Delete type=2 #25
+2022/09/24-19:37:20.170 160c5 Manual compaction at level-0 from '\x00\x0d\x00\x00\x05' @ 8251 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/09/24-19:37:20.557 160c3 Level-0 table #28: started
+2022/09/24-19:37:20.558 160c3 Level-0 table #28: 2146 bytes OK
+2022/09/24-19:37:20.560 160c3 Delete type=2 #23
+2022/09/24-19:37:20.560 160c3 Delete type=0 #24
+2022/09/24-19:37:20.560 160c3 Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x00\x00\x05' @ 8282 : 1
+2022/09/24-19:37:20.560 160c3 Compacting 1@0 + 1@1 files
+2022/09/24-19:37:20.562 160c3 Generated table #29@0: 2204 keys, 30842 bytes
+2022/09/24-19:37:20.562 160c3 Compacted 1@0 + 1@1 files => 30842 bytes
+2022/09/24-19:37:20.563 160c3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/24-19:37:20.564 160c3 Delete type=2 #28
+2022/09/24-19:37:20.564 160c3 Manual compaction at level-0 from '\x00\x0e\x00\x00\x05' @ 8282 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)

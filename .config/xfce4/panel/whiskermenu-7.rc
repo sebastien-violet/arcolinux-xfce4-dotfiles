@@ -1,5 +1,5 @@
 favorites=arcolinux-welcome-app.desktop,archlinux-tweak-tool.desktop,thunar.desktop,xfce4-terminal.desktop,conkyzen.desktop
-recent=btrfs-assistant.desktop,org.gnome.Meld.desktop,yad-settings.desktop,xfce-ui-settings.desktop,virtualbox.desktop,xfce4-terminal-settings.desktop,plank.desktop,lightdm-gtk-greeter-settings.desktop,ar.com.softwareperonista.Pace.desktop,variety.desktop
+recent=tidal-hifi.desktop,thorium-browser-unstable.desktop,xfce-session-settings.desktop,xfce-keyboard-settings.desktop,virt-manager.desktop,brave-browser-beta.desktop,qt5-virt-manager.desktop,mintstick.desktop,vlc.desktop,hypnotix.desktop
 button-title=ArcoLinux\ \ 
 button-icon=start-here-arcolinux
 button-single-row=false

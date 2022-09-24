@@ -1,23 +1,15 @@
-2022/09/17-17:11:32.134 5 Reusing MANIFEST /home/sviolet/.config/BraveSoftware/Brave-Browser-Beta/Default/Local Storage/leveldb/MANIFEST-000001
-2022/09/17-17:11:32.135 5 Recovering log #6
-2022/09/17-17:11:32.137 5 Level-0 table #9: started
-2022/09/17-17:11:32.139 5 Level-0 table #9: 104908 bytes OK
-2022/09/17-17:11:32.141 5 Delete type=0 #6
-2022/09/17-17:13:19.201 5 Level-0 table #12: started
-2022/09/17-17:13:19.207 5 Level-0 table #12: 103890 bytes OK
-2022/09/17-17:13:19.209 5 Delete type=0 #10
-2022/09/17-17:18:35.763 9 Level-0 table #14: started
-2022/09/17-17:18:35.769 9 Level-0 table #14: 105322 bytes OK
-2022/09/17-17:18:35.771 9 Delete type=0 #11
-2022/09/17-17:20:10.575 9 Level-0 table #16: started
-2022/09/17-17:20:10.581 9 Level-0 table #16: 103890 bytes OK
-2022/09/17-17:20:10.583 9 Delete type=0 #13
-2022/09/17-17:20:10.583 9 Compacting 4@0 + 1@1 files
-2022/09/17-17:20:10.586 9 Generated table #17@0: 17 keys, 106079 bytes
-2022/09/17-17:20:10.586 9 Compacted 4@0 + 1@1 files => 106079 bytes
-2022/09/17-17:20:10.587 9 compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/09/17-17:20:10.587 9 Delete type=2 #7
-2022/09/17-17:20:10.588 9 Delete type=2 #9
-2022/09/17-17:20:10.588 9 Delete type=2 #12
-2022/09/17-17:20:10.588 9 Delete type=2 #14
-2022/09/17-17:20:10.588 9 Delete type=2 #16
+2022/09/24-15:50:11.821 3 Reusing MANIFEST /home/sviolet/.config/BraveSoftware/Brave-Browser-Beta/Default/Local Storage/leveldb/MANIFEST-000001
+2022/09/24-15:50:11.822 3 Recovering log #113
+2022/09/24-15:50:11.822 3 Reusing old log /home/sviolet/.config/BraveSoftware/Brave-Browser-Beta/Default/Local Storage/leveldb/000113.log 
+2022/09/24-16:05:15.396 3 Level-0 table #117: started
+2022/09/24-16:05:15.401 3 Level-0 table #117: 21156 bytes OK
+2022/09/24-16:05:15.403 3 Delete type=0 #113
+2022/09/24-16:05:15.403 3 Compacting 4@0 + 1@1 files
+2022/09/24-16:05:15.414 3 Generated table #118@0: 835 keys, 928602 bytes
+2022/09/24-16:05:15.414 3 Compacted 4@0 + 1@1 files => 928602 bytes
+2022/09/24-16:05:15.416 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/24-16:05:15.416 3 Delete type=2 #106
+2022/09/24-16:05:15.416 3 Delete type=2 #108
+2022/09/24-16:05:15.416 3 Delete type=2 #111
+2022/09/24-16:05:15.416 3 Delete type=2 #114
+2022/09/24-16:05:15.416 3 Delete type=2 #117

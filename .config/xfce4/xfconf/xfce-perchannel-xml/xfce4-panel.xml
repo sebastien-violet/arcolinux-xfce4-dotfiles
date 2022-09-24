@@ -93,6 +93,8 @@
         <value type="string" value="clipman"/>
       </property>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="radiotray"/>
+        <value type="string" value="networkmanager applet"/>
         <value type="string" value="system-config-printer"/>
         <value type="string" value="lecture de musique pragha"/>
         <value type="string" value="thunar"/>
@@ -103,6 +105,8 @@
         <value type="string" value="applet networkmanager"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="qt-virt-manager"/>
+        <value type="string" value="vlc"/>
         <value type="string" value="steam"/>
         <value type="string" value="tidal-hifi1"/>
         <value type="string" value="stacer"/>
@@ -121,7 +125,7 @@
     </property>
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="chromium.instance17118;chromium.instance25130;chromium.instance2623;chromium.instance7948;pragha;spotify"/>
+      <property name="mpris-players" type="string" value="chromium.instance17118;chromium.instance1823;chromium.instance1882;chromium.instance25130;chromium.instance25858;chromium.instance2623;chromium.instance32660;chromium.instance3297;chromium.instance4204;chromium.instance51626;chromium.instance5599;chromium.instance6526;chromium.instance7948;chromium.instance90297;chromium.instance92416;pragha;spotify;vlc"/>
     </property>
   </property>
 </channel>

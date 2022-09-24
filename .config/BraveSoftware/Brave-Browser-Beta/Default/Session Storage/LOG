@@ -1,3 +1,15 @@
-2022/09/17-17:37:52.080 3 Reusing MANIFEST /home/sviolet/.config/BraveSoftware/Brave-Browser-Beta/Default/Session Storage/MANIFEST-000001
-2022/09/17-17:37:52.080 3 Recovering log #3
-2022/09/17-17:37:52.086 3 Reusing old log /home/sviolet/.config/BraveSoftware/Brave-Browser-Beta/Default/Session Storage/000003.log 
+2022/09/24-16:18:21.697 3 Reusing MANIFEST /home/sviolet/.config/BraveSoftware/Brave-Browser-Beta/Default/Session Storage/MANIFEST-000001
+2022/09/24-16:18:21.697 3 Recovering log #91
+2022/09/24-16:18:21.698 3 Reusing old log /home/sviolet/.config/BraveSoftware/Brave-Browser-Beta/Default/Session Storage/000091.log 
+2022/09/24-19:23:47.477 2b Level-0 table #95: started
+2022/09/24-19:23:47.483 2b Level-0 table #95: 17485 bytes OK
+2022/09/24-19:23:47.485 2b Delete type=0 #91
+2022/09/24-19:23:47.485 2b Compacting 4@0 + 1@1 files
+2022/09/24-19:23:47.487 2b Generated table #96@0: 1704 keys, 45874 bytes
+2022/09/24-19:23:47.487 2b Compacted 4@0 + 1@1 files => 45874 bytes
+2022/09/24-19:23:47.489 2b compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/24-19:23:47.489 2b Delete type=2 #86
+2022/09/24-19:23:47.489 2b Delete type=2 #88
+2022/09/24-19:23:47.489 2b Delete type=2 #90
+2022/09/24-19:23:47.489 2b Delete type=2 #92
+2022/09/24-19:23:47.489 2b Delete type=2 #95

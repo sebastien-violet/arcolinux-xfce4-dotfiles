@@ -1,0 +1,12 @@
+2022/09/24-15:50:15.406 10b3 Reusing MANIFEST /home/sviolet/.config/BraveSoftware/Brave-Browser-Beta/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/24-15:50:15.407 10b3 Recovering log #18
+2022/09/24-15:50:15.411 10b3 Reusing old log /home/sviolet/.config/BraveSoftware/Brave-Browser-Beta/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000018.log 
+2022/09/24-16:01:14.962 10b3 Level-0 table #23: started
+2022/09/24-16:01:14.972 10b3 Level-0 table #23: 1131053 bytes OK
+2022/09/24-16:01:14.974 10b3 Delete type=0 #18
+2022/09/24-16:01:33.448 1ea1 Compacting 1@1 + 1@2 files
+2022/09/24-16:01:33.453 1ea1 Generated table #24@1: 341 keys, 35538 bytes
+2022/09/24-16:01:33.453 1ea1 Compacted 1@1 + 1@2 files => 35538 bytes
+2022/09/24-16:01:33.456 1ea1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/24-16:01:33.456 1ea1 Delete type=2 #20
+2022/09/24-16:01:33.456 1ea1 Delete type=2 #23
