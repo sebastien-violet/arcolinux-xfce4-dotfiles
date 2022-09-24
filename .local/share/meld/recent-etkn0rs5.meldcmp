@@ -1,0 +1,4 @@
+[Comparison]
+type = File
+uris = file:///home/sviolet/.bashrc;file:///home/sviolet/.bashrc.bak
+

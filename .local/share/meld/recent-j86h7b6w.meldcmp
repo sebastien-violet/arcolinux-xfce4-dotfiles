@@ -1,0 +1,4 @@
+[Comparison]
+type = File
+uris = file:///home/sviolet/.zshrc;file:///home/sviolet/.zshrc.bak
+

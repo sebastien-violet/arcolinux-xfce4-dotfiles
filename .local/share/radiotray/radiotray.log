@@ -1,0 +1,251 @@
+2022-09-24 16:59:53,160 - DEBUG - Loading configuration...
+2022-09-24 16:59:53,160 - WARNING - bookmarks file could not be found. Using default...
+2022-09-24 16:59:53,160 - INFO - Copying default bookmarks file to user directory
+2022-09-24 16:59:53,160 - WARNING - Configuration file not found. Copying default configuration file to user directory
+2022-09-24 16:59:53,161 - INFO - Starting Radio Tray...
+2022-09-24 16:59:53,161 - INFO - Loading bookmarks file: /home/sviolet/.local/share/radiotray/bookmarks.xml
+2022-09-24 16:59:53,161 - DEBUG - Bookmarks file loaded with success
+2022-09-24 16:59:53,161 - DEBUG - PLS playlist decoder
+2022-09-24 16:59:53,161 - DEBUG - M3U playlist decoder
+2022-09-24 16:59:53,161 - DEBUG - ASX-familiy playlist decoder
+2022-09-24 16:59:53,161 - DEBUG - XSPF playlist decoder
+2022-09-24 16:59:53,161 - DEBUG - Initializing ASF playlist decoder
+2022-09-24 16:59:53,161 - DEBUG - RAM playlist decoder
+2022-09-24 16:59:53,161 - INFO - Using url timeout = 100
+2022-09-24 16:59:53,180 - DEBUG - Setting buffer size to 164000
+2022-09-24 16:59:53,180 - DEBUG - No appindicator support found. Choosing notification area...
+2022-09-24 16:59:53,180 - DEBUG - Systray selected
+2022-09-24 16:59:53,194 - INFO - finding plugins in user plugin path
+2022-09-24 16:59:53,194 - INFO - finding plugins in system plugin path
+2022-09-24 16:59:53,194 - DEBUG - /usr/share/radiotray/plugins/StationSwitcher.plugin
+2022-09-24 16:59:53,194 - DEBUG - /usr/share/radiotray/plugins/gnomemediakeys.plugin
+2022-09-24 16:59:53,194 - DEBUG - /usr/share/radiotray/plugins/helloworld.plugin
+2022-09-24 16:59:53,194 - DEBUG - /usr/share/radiotray/plugins/history.plugin
+2022-09-24 16:59:53,194 - DEBUG - /usr/share/radiotray/plugins/matemediakeys.plugin
+2022-09-24 16:59:53,194 - DEBUG - /usr/share/radiotray/plugins/notification.plugin
+2022-09-24 16:59:53,194 - DEBUG - /usr/share/radiotray/plugins/sleeptimer.plugin
+2022-09-24 17:00:40,257 - DEBUG - group found: "root"
+2022-09-24 17:00:40,257 - DEBUG - group found: "Jazz"
+2022-09-24 17:00:40,257 - DEBUG - group found: "Latin"
+2022-09-24 17:00:40,257 - DEBUG - group found: "Classic Rock"
+2022-09-24 17:00:40,257 - DEBUG - group found: "Classical"
+2022-09-24 17:00:40,257 - DEBUG - group found: "Pop / Rock"
+2022-09-24 17:00:40,257 - DEBUG - group found: "Oldies"
+2022-09-24 17:00:40,257 - DEBUG - group found: "Chill"
+2022-09-24 17:00:40,257 - DEBUG - group found: "Country"
+2022-09-24 17:00:40,257 - DEBUG - group found: "Techno / Electronic"
+2022-09-24 17:00:40,257 - DEBUG - group found: "Community"
+2022-09-24 17:01:36,387 - DEBUG - Request to play
+2022-09-24 17:01:36,387 - DEBUG - connecting
+2022-09-24 17:01:36,388 - INFO - Requesting stream... http://somafm.com/dronezone.pls
+2022-09-24 17:01:36,908 - DEBUG - Metadata obtained...
+2022-09-24 17:01:36,908 - INFO - Content-Type: audio/x-scpls
+2022-09-24 17:01:36,908 - INFO - Checking decoder
+2022-09-24 17:01:36,908 - INFO - Stream is readable by PLS Playlist Decoder
+2022-09-24 17:01:36,908 - INFO - Downloading playlist...
+2022-09-24 17:01:37,237 - INFO - Playlist downloaded
+2022-09-24 17:01:37,237 - INFO - Decoding playlist...
+2022-09-24 17:01:37,237 - DEBUG - ['http://ice4.somafm.com/dronezone-128-mp3', 'http://ice6.somafm.com/dronezone-128-mp3', 'http://ice1.somafm.com/dronezone-128-mp3', 'http://ice2.somafm.com/dronezone-128-mp3']
+2022-09-24 17:01:37,237 - INFO - Play "http://ice4.somafm.com/dronezone-128-mp3"
+2022-09-24 17:01:37,237 - INFO - Requesting stream... http://ice4.somafm.com/dronezone-128-mp3
+2022-09-24 17:01:37,763 - DEBUG - Metadata obtained...
+2022-09-24 17:01:37,763 - INFO - Content-Type: audio/mpeg
+2022-09-24 17:01:37,763 - INFO - Checking decoder
+2022-09-24 17:01:37,763 - INFO - Checking decoder
+2022-09-24 17:01:37,763 - INFO - Checking decoder
+2022-09-24 17:01:37,763 - INFO - Checking decoder
+2022-09-24 17:01:37,763 - INFO - Checking decoder
+2022-09-24 17:01:37,763 - INFO - Checking decoder
+2022-09-24 17:01:37,763 - INFO - No playlist decoder could handle the stream. Maybe direct stream...
+2022-09-24 17:01:37,764 - WARNING - Could not find setting with the name "last_station".
+2022-09-24 17:01:37,766 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:37,766 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:37,766 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:37,766 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:37,767 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:37,767 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:37,767 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:37,767 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:37,767 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:37,768 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:38,120 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:38,120 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:38,120 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:38,120 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:38,121 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:38,121 - DEBUG - Buffering 0
+2022-09-24 17:01:38,121 - DEBUG - Buffering 1
+2022-09-24 17:01:38,121 - DEBUG - Buffering 3
+2022-09-24 17:01:38,121 - DEBUG - Buffering 8
+2022-09-24 17:01:38,127 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:38,127 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:38,128 - DEBUG - Buffering 7
+2022-09-24 17:01:38,133 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:38,133 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:38,136 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:38,138 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:38,139 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:38,150 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:38,150 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:38,151 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:38,151 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:38,151 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:38,151 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:38,152 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:38,152 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:38,152 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:38,152 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:38,152 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:38,152 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_NULL of type Gst.State> -> <enum GST_STATE_READY of type Gst.State>)
+2022-09-24 17:01:38,152 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:38,152 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:38,153 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:38,153 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:38,153 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:38,154 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:38,154 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:38,154 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:38,154 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_READY of type Gst.State> -> <enum GST_STATE_PAUSED of type Gst.State>)
+2022-09-24 17:01:38,154 - DEBUG - Buffering 4
+2022-09-24 17:01:38,154 - DEBUG - Buffering 0
+2022-09-24 17:01:38,280 - DEBUG - Buffering 1
+2022-09-24 17:01:38,280 - DEBUG - Buffering 0
+2022-09-24 17:01:38,280 - DEBUG - Buffering 2
+2022-09-24 17:01:38,280 - DEBUG - Buffering 5
+2022-09-24 17:01:38,280 - DEBUG - Buffering 6
+2022-09-24 17:01:38,280 - DEBUG - Buffering 8
+2022-09-24 17:01:38,281 - DEBUG - Buffering 9
+2022-09-24 17:01:38,281 - DEBUG - Buffering 8
+2022-09-24 17:01:38,281 - DEBUG - Buffering 9
+2022-09-24 17:01:38,281 - DEBUG - Buffering 10
+2022-09-24 17:01:38,281 - DEBUG - Buffering 11
+2022-09-24 17:01:38,281 - DEBUG - Buffering 13
+2022-09-24 17:01:38,281 - DEBUG - Buffering 14
+2022-09-24 17:01:38,281 - DEBUG - Buffering 15
+2022-09-24 17:01:38,440 - DEBUG - Buffering 16
+2022-09-24 17:01:38,440 - DEBUG - Buffering 18
+2022-09-24 17:01:38,440 - DEBUG - Buffering 19
+2022-09-24 17:01:38,440 - DEBUG - Buffering 21
+2022-09-24 17:01:38,440 - DEBUG - Buffering 22
+2022-09-24 17:01:38,440 - DEBUG - Buffering 23
+2022-09-24 17:01:38,441 - DEBUG - Buffering 24
+2022-09-24 17:01:38,441 - DEBUG - Buffering 25
+2022-09-24 17:01:38,441 - DEBUG - Buffering 26
+2022-09-24 17:01:38,441 - DEBUG - Buffering 28
+2022-09-24 17:01:38,441 - DEBUG - Buffering 29
+2022-09-24 17:01:38,441 - DEBUG - Buffering 30
+2022-09-24 17:01:38,441 - DEBUG - Buffering 31
+2022-09-24 17:01:38,441 - DEBUG - Buffering 32
+2022-09-24 17:01:38,441 - DEBUG - Buffering 33
+2022-09-24 17:01:38,441 - DEBUG - Buffering 34
+2022-09-24 17:01:38,441 - DEBUG - Buffering 35
+2022-09-24 17:01:38,441 - DEBUG - Buffering 36
+2022-09-24 17:01:38,441 - DEBUG - Buffering 37
+2022-09-24 17:01:38,441 - DEBUG - Buffering 38
+2022-09-24 17:01:38,472 - DEBUG - Buffering 39
+2022-09-24 17:01:38,472 - DEBUG - Buffering 40
+2022-09-24 17:01:38,472 - DEBUG - Buffering 41
+2022-09-24 17:01:38,472 - DEBUG - Buffering 42
+2022-09-24 17:01:38,472 - DEBUG - Buffering 44
+2022-09-24 17:01:38,472 - DEBUG - Buffering 45
+2022-09-24 17:01:38,472 - DEBUG - Buffering 46
+2022-09-24 17:01:38,472 - DEBUG - Buffering 47
+2022-09-24 17:01:38,487 - DEBUG - Buffering 48
+2022-09-24 17:01:38,487 - DEBUG - Buffering 49
+2022-09-24 17:01:38,487 - DEBUG - Buffering 50
+2022-09-24 17:01:38,600 - DEBUG - Buffering 52
+2022-09-24 17:01:38,600 - DEBUG - Buffering 53
+2022-09-24 17:01:38,600 - DEBUG - Buffering 54
+2022-09-24 17:01:38,600 - DEBUG - Buffering 55
+2022-09-24 17:01:38,600 - DEBUG - Buffering 57
+2022-09-24 17:01:38,600 - DEBUG - Buffering 58
+2022-09-24 17:01:38,600 - DEBUG - Buffering 59
+2022-09-24 17:01:38,600 - DEBUG - Buffering 61
+2022-09-24 17:01:38,600 - DEBUG - Buffering 62
+2022-09-24 17:01:38,600 - DEBUG - Buffering 63
+2022-09-24 17:01:38,600 - DEBUG - Buffering 64
+2022-09-24 17:01:38,600 - DEBUG - Buffering 65
+2022-09-24 17:01:38,600 - DEBUG - Buffering 67
+2022-09-24 17:01:38,601 - DEBUG - Buffering 68
+2022-09-24 17:01:38,601 - DEBUG - Buffering 69
+2022-09-24 17:01:38,601 - DEBUG - Buffering 70
+2022-09-24 17:01:38,601 - DEBUG - Buffering 71
+2022-09-24 17:01:38,601 - DEBUG - Buffering 72
+2022-09-24 17:01:38,601 - DEBUG - Buffering 73
+2022-09-24 17:01:38,601 - DEBUG - Buffering 74
+2022-09-24 17:01:38,601 - DEBUG - Buffering 75
+2022-09-24 17:01:38,601 - DEBUG - Buffering 76
+2022-09-24 17:01:38,601 - DEBUG - Buffering 77
+2022-09-24 17:01:38,601 - DEBUG - Buffering 78
+2022-09-24 17:01:38,601 - DEBUG - Buffering 79
+2022-09-24 17:01:38,601 - DEBUG - Buffering 80
+2022-09-24 17:01:38,601 - DEBUG - Buffering 81
+2022-09-24 17:01:38,601 - DEBUG - Buffering 82
+2022-09-24 17:01:38,602 - DEBUG - Buffering 83
+2022-09-24 17:01:38,602 - DEBUG - Buffering 84
+2022-09-24 17:01:38,602 - DEBUG - Buffering 85
+2022-09-24 17:01:38,602 - DEBUG - Buffering 87
+2022-09-24 17:01:38,602 - DEBUG - Buffering 88
+2022-09-24 17:01:38,602 - DEBUG - Buffering 89
+2022-09-24 17:01:38,602 - DEBUG - Buffering 90
+2022-09-24 17:01:38,602 - DEBUG - Buffering 91
+2022-09-24 17:01:38,602 - DEBUG - Buffering 92
+2022-09-24 17:01:38,602 - DEBUG - Buffering 93
+2022-09-24 17:01:38,602 - DEBUG - Buffering 94
+2022-09-24 17:01:38,602 - DEBUG - Buffering 95
+2022-09-24 17:01:38,602 - DEBUG - Buffering 96
+2022-09-24 17:01:38,602 - DEBUG - Buffering 97
+2022-09-24 17:01:38,631 - DEBUG - Buffering 98
+2022-09-24 17:01:38,632 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,632 - DEBUG - playing
+2022-09-24 17:01:38,637 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,637 - DEBUG - playing
+2022-09-24 17:01:38,637 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,637 - DEBUG - playing
+2022-09-24 17:01:38,638 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,638 - DEBUG - playing
+2022-09-24 17:01:38,638 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,638 - DEBUG - playing
+2022-09-24 17:01:38,639 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,639 - DEBUG - playing
+2022-09-24 17:01:38,640 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,640 - DEBUG - playing
+2022-09-24 17:01:38,640 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,640 - DEBUG - playing
+2022-09-24 17:01:38,641 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,641 - DEBUG - playing
+2022-09-24 17:01:38,641 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,641 - DEBUG - playing
+2022-09-24 17:01:38,642 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,642 - DEBUG - playing
+2022-09-24 17:01:38,642 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,642 - DEBUG - playing
+2022-09-24 17:01:38,643 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,643 - DEBUG - playing
+2022-09-24 17:01:38,643 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,643 - DEBUG - playing
+2022-09-24 17:01:38,644 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,644 - DEBUG - playing
+2022-09-24 17:01:38,644 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,645 - DEBUG - playing
+2022-09-24 17:01:38,645 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,645 - DEBUG - playing
+2022-09-24 17:01:38,646 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,646 - DEBUG - playing
+2022-09-24 17:01:38,646 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,646 - DEBUG - playing
+2022-09-24 17:01:38,647 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,647 - DEBUG - playing
+2022-09-24 17:01:38,647 - DEBUG - Received MESSAGE_STATE_CHANGED (<enum GST_STATE_PAUSED of type Gst.State> -> <enum GST_STATE_PLAYING of type Gst.State>)
+2022-09-24 17:01:38,647 - DEBUG - playing
+2022-09-24 17:01:39,973 - DEBUG - {'title': 'Kent Sparling - (Memories of) Tehema', 'homepage': 'http://somafm.com/logos/512/dronezone512.png', 'has-crc': False, 'channel-mode': 'stereo', 'audio-codec': 'MPEG-1 Layer 3 (MP3)', 'nominal-bitrate': 128000, 'minimum-bitrate': 127706, 'maximum-bitrate': 128012, 'bitrate': 128004, 'station': 'Drone Zone'}
+2022-09-24 17:03:02,574 - DEBUG - Setting StationSwitcher to True
+2022-09-24 17:03:02,574 - DEBUG - ['Notifications']
+2022-09-24 17:03:02,574 - DEBUG - apppend StationSwitcher
+2022-09-24 17:03:02,574 - DEBUG - activate
+2022-09-24 17:03:02,574 - DEBUG - ['Notifications', 'StationSwitcher']
+2022-09-24 17:03:10,533 - DEBUG - remove all
+2022-09-24 17:03:10,533 - DEBUG - remove child Notifications
+2022-09-24 17:04:01,593 - DEBUG - Stopping...
+2022-09-24 17:04:01,594 - DEBUG - paused
+2022-09-24 17:04:07,719 - INFO - Exiting...

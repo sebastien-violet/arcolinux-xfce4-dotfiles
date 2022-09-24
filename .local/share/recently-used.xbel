@@ -165,12 +165,12 @@ file:///home/sviolet/Bureau, file:///home/sviolet/DATA</desc>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///usr/share/backgrounds/archlinux-login-backgrounds" added="2022-09-15T16:36:03.902382Z" modified="2022-09-15T16:36:03.902384Z" visited="2022-09-15T16:36:03.902383Z">
+  <bookmark href="file:///usr/share/backgrounds/archlinux-login-backgrounds" added="2022-09-15T16:36:03.902382Z" modified="2022-09-24T08:16:56.048947Z" visited="2022-09-15T16:36:03.902383Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="xfdesktop-settings" exec="&apos;xfdesktop-settings %u&apos;" modified="2022-09-15T16:36:03.902383Z" count="1"/>
+          <bookmark:application name="xfdesktop-settings" exec="&apos;xfdesktop-settings %u&apos;" modified="2022-09-24T08:16:56.048946Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -334,6 +334,104 @@ file:///home/sviolet/.config, file:///etc/skel/.config</desc>
           <bookmark:application name="Meld" exec="&apos;/usr/bin/meld --comparison-file %u&apos;" modified="2022-09-17T14:18:29.605788Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/T%C3%A9l%C3%A9chargements/EU_K60_RGB_PRO_QSG_AB.pdf" added="2022-09-17T17:07:00.078461Z" modified="2022-09-17T17:07:00.078463Z" visited="2022-09-17T17:07:00.078461Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visionneur de documents" exec="&apos;evince %u&apos;" modified="2022-09-17T17:07:00.078462Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/T%C3%A9l%C3%A9chargements/html5up-forty.zip" added="2022-09-17T17:07:13.269475Z" modified="2022-09-17T17:07:13.269477Z" visited="2022-09-17T17:07:13.269475Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-09-17T17:07:13.269476Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/T%C3%A9l%C3%A9chargements/arcolinuxb-plasma-v22.10.01-x86_64.iso" added="2022-09-19T15:07:38.219742Z" modified="2022-09-19T15:07:38.219745Z" visited="2022-09-19T15:07:38.219743Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="mintstick.py" exec="&apos;mintstick.py %u&apos;" modified="2022-09-19T15:07:38.219744Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/T%C3%A9l%C3%A9chargements/arcolinuxd-v22.09.04-x86_64.iso" added="2022-09-20T19:32:38.306670Z" modified="2022-09-20T19:32:38.306672Z" visited="2022-09-20T19:32:38.306670Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="virt-manager" exec="&apos;virt-manager %u&apos;" modified="2022-09-20T19:32:38.306671Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/T%C3%A9l%C3%A9chargements/arcolinuxl-v22.09.04-x86_64.iso" added="2022-09-21T17:14:04.767504Z" modified="2022-09-21T17:14:04.767507Z" visited="2022-09-21T17:14:04.767505Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="virt-manager" exec="&apos;virt-manager %u&apos;" modified="2022-09-21T17:14:04.767505Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/.local/share/meld/recent-etkn0rs5.meldcmp" added="2022-09-24T14:34:35.199439Z" modified="2022-09-24T14:37:55.840778Z" visited="2022-09-24T14:34:35.199439Z">
+    <title>.bashrc : .bashrc.bak</title>
+    <desc>File comparison
+file:///home/sviolet/.bashrc, file:///home/sviolet/.bashrc.bak</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-meld-comparison"/>
+        <bookmark:applications>
+          <bookmark:application name="Meld" exec="&apos;/usr/bin/meld --comparison-file %u&apos;" modified="2022-09-24T14:37:55.840777Z" count="2"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sviolet/.local/share/meld/recent-j86h7b6w.meldcmp" added="2022-09-24T14:37:46.218438Z" modified="2022-09-24T14:37:46.218441Z" visited="2022-09-24T14:37:46.218439Z">
+    <title>.zshrc : .zshrc.bak</title>
+    <desc>File comparison
+file:///home/sviolet/.zshrc, file:///home/sviolet/.zshrc.bak</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-meld-comparison"/>
+        <bookmark:applications>
+          <bookmark:application name="Meld" exec="&apos;/usr/bin/meld --comparison-file %u&apos;" modified="2022-09-24T14:37:46.218440Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/arcolinux" added="2022-09-24T14:38:42.812592Z" modified="2022-09-24T14:38:42.812594Z" visited="2022-09-24T14:38:42.812592Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xfdesktop-settings" exec="&apos;xfdesktop-settings %u&apos;" modified="2022-09-24T14:38:42.812593Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/radiotray" added="2022-09-24T15:05:04.470943Z" modified="2022-09-24T15:05:04.470945Z" visited="2022-09-24T15:05:04.470944Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-session-settings" exec="&apos;xfce4-session-settings %u&apos;" modified="2022-09-24T15:05:04.470944Z" count="1"/>
+        </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
